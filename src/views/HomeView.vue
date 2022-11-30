@@ -55,5 +55,7 @@ export default defineComponent({
 <style scoped lang="scss">
 h1 {
   font-size: 24px !important;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 </style>
